@@ -1,0 +1,38 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "remote-compile",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "remote-compile:toggle"
+            },
+            {
+              "label": "Change Project",
+              "command": "remote-compile:changeproject"
+            },
+            {
+              "label": "Run",
+              "command": "remote-compile:run"
+            },
+            {
+              "label": "Kill",
+              "command": "remote-compile:kill"
+            },
+            {
+              "label": "Disconnect",
+              "command": "remote-compile:disconnect"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
