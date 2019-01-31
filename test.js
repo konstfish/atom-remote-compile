@@ -1,4 +1,6 @@
-let net = require('net');
+
+
+/*let net = require('net');
 let hostname = "";
 
 let Hjson = require('hjson');
@@ -21,7 +23,7 @@ firstFunction(function functionName() {
   console.log('3.' + hostname);
 })
 
-setTimeout(function(){console.log('4.' + hostname)}, 100);
+setTimeout(function(){console.log('4.' + hostname)}, 100);*/
 /*
 var client = new net.Socket();
 client.setTimeout(5e3, () => client.destroy());
