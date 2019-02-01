@@ -1,3 +1,6 @@
 # remote-compile package
 
-An Atom implementation of remote-compile by Rafael Schreiber
+remote-compile Client for Atom
+
+## Credits
+  [Rafael Schreiber](https://github.com/rafaelschreiber)

@@ -2,8 +2,8 @@
   "name": "remote-compile",
   "main": "./lib/remote-compile",
   "version": "0.1.0",
-  "description": "An Atom implementation of remote-compile by Rafael Schreiber",
-  "keywords": [],
+  "description": "remote-compile Client for Atom",
+  "keywords": ["remote-compile", "remote", "compile", "remote compile"],
   "activationCommands": {
     "atom-workspace": "remote-compile:toggle"
   },
