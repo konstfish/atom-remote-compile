@@ -1,6 +1,6 @@
 {
   "name": "remote-compile",
-  "main": "./lib/remote-compile",
+  "main": "./lib/index",
   "version": "0.1.0",
   "description": "remote-compile Client for Atom",
   "keywords": ["remote-compile", "remote", "compile", "remote compile"],

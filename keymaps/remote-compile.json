@@ -1,5 +1,8 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "remote-compile:toggle"
+    "ctrl-alt-o": "remote-compile:toggle",
+    "ctrl-alt-c": "remote-compile:changeproject",
+    "ctrl-alt-r": "remote-compile:run",
+    "ctrl-alt-k": "remote-compile:kill"
   }
 }

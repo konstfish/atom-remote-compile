@@ -25,10 +25,6 @@
             {
               "label": "Kill",
               "command": "remote-compile:kill"
-            },
-            {
-              "label": "Disconnect",
-              "command": "remote-compile:disconnect"
             }
           ]
         }
