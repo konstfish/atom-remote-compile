@@ -25,6 +25,10 @@
             {
               "label": "Kill",
               "command": "remote-compile:kill"
+            },
+            {
+              "label": "Reload Projects (!!!)",
+              "command": "remote-compile:reload"
             }
           ]
         }
