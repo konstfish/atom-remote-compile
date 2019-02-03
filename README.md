@@ -1,7 +1,7 @@
 # remote-compile package
 
 remote-compile Client for Atom.
-![rc-preview](screen/overview.png)
+![rc-preview](./screen/overview.png =250x)
 
 ## Getting Started
 This plugin is best used with [rempote-ftp](https://github.com//icetee/remote-ftp) and relies on its .ftpconfig file.
@@ -15,7 +15,7 @@ This plugin is best used with [rempote-ftp](https://github.com//icetee/remote-ft
 TODO
 
 ## Shortcuts
-|       Function    |       Mac       |
+|       Function    |       Mac        |
 |-----------        | :--------------: |
 | Toggle            |  ctrl + cmd + o  |
 | Change Project    |  ctrl + cmd + c  |
