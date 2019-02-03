@@ -1,6 +1,6 @@
 {
     "protocol": "sftp",
-    "host": "localhost", // string - Hostname or IP address of the server. Default: 'localhost'
+    "host": "172.20.10.14", // string - Hostname or IP address of the server. Default: 'localhost'
     "port": 22, // integer - Port number of the server. Default: 22
     "user": "user", // string - Username for authentication. Default: (none)
     "pass": "pass", // string - Password for password-based user authentication. Default: (none)
