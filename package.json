@@ -1,13 +1,12 @@
 {
   "name": "remote-compile",
   "main": "./lib/index",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "remote-compile Client for Atom",
   "keywords": [
     "remote-compile",
-    "remote",
-    "compile",
-    "remote compile"
+    "remote compile",
+    "telnet"
   ],
   "activationCommands": {
     "atom-workspace": "remote-compile:toggle"
