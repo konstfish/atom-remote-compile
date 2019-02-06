@@ -29,6 +29,10 @@
             {
               "label": "Reload Projects (!!!)",
               "command": "remote-compile:reload"
+            },
+            {
+              "label": "Message",
+              "command": "remote-compile:message"
             }
           ]
         }

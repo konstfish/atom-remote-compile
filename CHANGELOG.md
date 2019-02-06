@@ -10,3 +10,9 @@
 * Added jsondata handling
 * Added reload function
 * Bugfixes
+
+## 0.1.2 - First Release
+* Makefail now auto swaps file to error-log.txt
+* Added Message function
+* Cleaned up/added global variables
+* Added more jsondata handling

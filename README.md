@@ -16,12 +16,14 @@ This plugin is best used with [rempote-ftp](https://github.com//icetee/remote-ft
 TODO
 
 ## Shortcuts
-|       Function    |       Mac        |
+|       Function    |       Mac/Win    |
 |-----------        | :--------------: |
 | Toggle            |  ctrl + cmd + o  |
 | Change Project    |  ctrl + cmd + c  |
 | Run               |  ctrl + cmd + d  |
-| Kill              | ctrl + cmd  + u  |
+| Kill              |  ctrl + cmd  + u |
+| Reload            |        /         |
+| Message           |        /         |
 
 ## Config File
 ```
